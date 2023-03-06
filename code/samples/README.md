@@ -1,4 +1,4 @@
-# Code Sample
+# Code Samples
 Code samples demonstrating my coding abilities:
 
 <ol>
