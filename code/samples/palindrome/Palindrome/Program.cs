@@ -8,8 +8,8 @@ namespace Palindrome
     /// </summary>
     class Program
     {
-        private const string Line1 = "---------------------------------";
-        private const string Line2 = "=================================";
+        private const string Line1 = "------------------------------------------------------------------";
+        private const string Line2 = "==================================================================";
 
         /// <summary>
         /// Application entry point.
@@ -19,6 +19,7 @@ namespace Palindrome
         {
             Console.WriteLine($"{Line1}{Environment.NewLine}{Environment.NewLine}");
             Console.WriteLine($"      {Constants.AppName} v{Constants.AppVersion}{Environment.NewLine}{Environment.NewLine}");
+            Console.WriteLine($"      Finds all palindromes in a string of text. See https://en.wikipedia.org/wiki/Palindrome{Environment.NewLine}{Environment.NewLine}");
             Console.WriteLine($"{Line2}{Environment.NewLine}");
             Console.WriteLine($"Enter text:");
             string text = Console.ReadLine();
@@ -35,6 +36,7 @@ namespace Palindrome
             else
                 Console.WriteLine($"No results for '{text}'.");
             Console.WriteLine($"{Environment.NewLine}{Line2}{Environment.NewLine}");
+            Console.ReadLine();
         }
     }
 }
