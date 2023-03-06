@@ -1,6 +1,7 @@
 # Professional Work
 Contains content related to my professional life and career:
 
-C# code samples written by me: <a href="tree/main/code/samples">/tree/main/code/samples</a>
-
-Technical documents written by me: <a href="tree/main/code/samples">/tree/main/documents/illion</a>
+<ol>
+	<li><a href="https://github.com/rasikakw/professional-work/tree/main/code/samples">C# code samples written by me</a></li>
+	<li><a href="https://github.com/rasikakw/professional-work/tree/main/documents/illion">Technical documents written by me</a></li>
+</ol>
