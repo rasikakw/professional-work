@@ -3,7 +3,7 @@ COPYRIGHT NOTICE
 
 All the source code and project files
 in the Payroll solution and folders 
-are © 2021 Rasika Kavinda Wijayaratne, 
+are © 2020 Rasika Kavinda Wijayaratne, 
 the author and owner of the solutions.
 
 Please do not use or distribute these 

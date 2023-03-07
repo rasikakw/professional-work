@@ -2,11 +2,9 @@ COPYRIGHT NOTICE
 ================
 
 All the source code and project files
-in the Shapes solution and folders 
-are © 2020 Rasika Kavinda Wijayaratne, 
+in the DataReader solution and folders 
+are © 2019 Rasika Kavinda Wijayaratne, 
 the author and owner of the solutions.
-The only exception to this is the 
-shapes.csv file.
 
 Please do not use or distribute these 
 files in any way without prior 
@@ -22,7 +20,7 @@ LICENCE TERMS
 =============
 
 You are permitted to use the source 
-code and project files in the Shapes
+code and project files in the DataReader
 solution for evaluation purposes only. 
 For any other use, please obtain prior 
 permission from the author and owner 
@@ -32,6 +30,6 @@ Wijayaratne (see above).
 SOFTWARE USED
 =============
 
-The Shapes solution was created using
+The DataReader solution was created using
 Microsoft Visual Studio Community 2015,
 Version 14.0.25420.01 Update 3.

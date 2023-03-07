@@ -3,7 +3,7 @@ COPYRIGHT NOTICE
 
 All the source code and project files
 in mail Client and Service solutions 
-and folders are © 2021 Rasika Kavinda 
+and folders are © 2020 Rasika Kavinda 
 Wijayaratne, the author and owner of 
 the solutions.
 

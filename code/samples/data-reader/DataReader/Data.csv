@@ -1,0 +1,10 @@
+,,,,,,,Disapprovals,,,,,,,,
+Customer,Total,Concentration  Rate,Concentration ,Aged,Contras,Credit Notes,Related,Non Commercial,Credit Risk,International,Unsuitable Invoicing,Failed verification,Approved,Funding Rate,Limit
+Test 0,234,30%,164,0,0,0,0,0,0,0,0,0,70,80%,56
+Test 1,345,30%,275,0,0,0,0,0,0,77,0,0,-7,80%,0
+Test 2,345,30%,275,0,0,77,77,0,77,0,0,0,-161,80%,0
+Test 3,345,30%,275,0,0,0,0,0,0,0,0,0,70,80%,56
+Test 4,234,30%,164,0,0,77,0,0,0,77,0,0,-84,80%,0
+Test 5,345,30%,275,0,0,0,0,0,0,0,0,0,70,80%,56
+Test 6,234,30%,164,0,0,0,0,0,0,0,0,0,70,80%,56
+,2082,,1591,0,0,154,77,0,77,154,0,0,106,211%,225
