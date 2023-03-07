@@ -1,6 +1,6 @@
 # Task Documents (illion)
 
-These documents were created by me as a part of assigned tasks at illion. 
+These technical documents were created by me as a part of assigned tasks at illion. 
 
 I have endeavoured to remove any internal information from these documents so as to not compromise illion in any way. 
 

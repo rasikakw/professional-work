@@ -3,7 +3,7 @@ I created these internal technical documents on my own initiative while at illio
 
 I have endeavoured to remove any internal information from these documents so as to not compromise illion in any way. 
 
-Documents created by me as a part of assigned tasks at illion:
+Technical documents created by me as a part of assigned tasks at illion:
 
 <ol>
 	<li><a href="https://github.com/rasikakw/professional-work/tree/main/documents/illion/tasks">Task Documents (illion)</a></li> 
