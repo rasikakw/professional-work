@@ -2,6 +2,7 @@
 Code samples demonstrating my coding abilities:
 
 <ol>
+	<li><a href="https://github.com/rasikakw/professional-work/tree/main/code/samples/animals">Video tutorial and C# code sample</a></li> 
 	<li><a href="https://github.com/rasikakw/professional-work/tree/main/code/samples/data-reader">CSV data row processing C# code sample</a></li> 
 	<li><a href="https://github.com/rasikakw/professional-work/tree/main/code/samples/mail">Mail server and client C# code sample</a></li> 
 	<li><a href="https://github.com/rasikakw/professional-work/tree/main/code/samples/palindrome">Find palindromes in text C# code sample</a></li> 
